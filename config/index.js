@@ -43,6 +43,7 @@ const config = {
     }
   },
   h5: {
+    esnextModules: ['taro-ui-vue3'],
     publicPath: '/',
     staticDirectory: 'static',
     postcss: {

@@ -39,6 +39,7 @@
     "@tarojs/components": "3.0.16",
     "@tarojs/runtime": "3.0.16",
     "@tarojs/taro": "3.0.16",
+    "taro-ui-vue3": "^1.0.0-alpha.14",
     "vue": "^3.0.0"
   },
   "devDependencies": {
